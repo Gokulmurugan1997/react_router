@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import './Navbar.css'
 import GuviBlogLogo from '../assets/GuviBlogLogo.png'
 
 export default function Navbar() {
